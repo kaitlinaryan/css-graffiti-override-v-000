@@ -5,6 +5,7 @@
 #tag-2 {
   display: none;
 }
+
 #wall #tag-2 {
   display: none;
 }
@@ -16,6 +17,6 @@
 #parent #tag-4 {
   display: none;
 }
-/* #parent .tag-5 {
+ #parent .tag-5 {
   display: none;
-}*/
+}
