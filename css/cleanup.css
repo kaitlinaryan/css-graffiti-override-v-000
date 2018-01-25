@@ -13,7 +13,9 @@
   display: none;
 }
 
-
+#parent #tag-4 {
+  display: none;
+}
 /* #parent .tag-5 {
   display: none;
 }*/
